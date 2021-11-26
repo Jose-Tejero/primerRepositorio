@@ -11,3 +11,8 @@ git commit -m '' (entre las comillas irá el mensaje de acuerdo a las modificaci
 
 git push (para enviar al repositorio remoto)
 
+--------------------------
+
+Tercera y útlima modificación.
+
+git commit -am 'Mensaje' (solo sirve para archivos agregados previamente)
