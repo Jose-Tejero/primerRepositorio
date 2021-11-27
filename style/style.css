@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(16, 0, 0);
+}
+
+nav{
+    background-color: brown;
+    border-radius: 10px;
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+p{
+    color: blue;
+}
+
